@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69244349834",
+    "firebase_url": "https://lenrx-e760a-default-rtdb.firebaseio.com",
+    "project_id": "lenrx-e760a",
+    "storage_bucket": "lenrx-e760a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69244349834:android:98ce999fda7c6920e16c73",
+        "android_client_info": {
+          "package_name": "com.example.hvu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69244349834-dqs0ha6uus0u5e03n85ofo13hvuiq2bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTDGVCgRPQOYMs0RurWUCg660_AySxXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69244349834-dqs0ha6uus0u5e03n85ofo13hvuiq2bj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69244349834-0518rkshtsjsdbmmbbsgg0h487n4j0j1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hvu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
